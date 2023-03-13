@@ -1,0 +1,36 @@
+* {
+  font-family: "Alex Brush", cursive;
+  font-family: "Chakra Petch", sans-serif;
+  font-family: "Charm", cursive;
+  font-family: "Pinyon Script", cursive;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  background-color: #e4dae2;
+  width: 100vw;
+  height: 220px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu-img {
+  height: 220px;
+  width: 600px;
+  margin-top: -160px;
+  margin-right: -280px;
+
+}
+
+.menu-item ul li {
+    color: #4B1342;
+  font-family: Charm;
+  font-weight: 700;
+  font-size: 35px;
+  display: inline;
+  padding: 40px 40px 40px 40px;
+  margin-left: 10px;
+  text-shadow: 1px -0.6px black;
+}
